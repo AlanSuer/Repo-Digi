@@ -1,0 +1,11 @@
+nombre = 6
+print (nombre, "x 1 =", nombre*1)
+print (nombre, "x 2 =", nombre*2)
+print (nombre, "x 3 =", nombre*3)
+print (nombre, "x 4 =", nombre*4)
+print (nombre, "x 5 =", nombre*5)
+print (nombre, "x 6 =", nombre*6)
+print (nombre, "x 7 =", nombre*7)
+print (nombre, "x 8 =", nombre*8)
+print (nombre, "x 9 =", nombre*9)
+print (nombre, "x 10 =", nombre*10)
