@@ -7,7 +7,7 @@ response = requests.get(url)
 
 # Comprovar el codi d'estat
 if response.status_code == 200:  # 200 OK indica que la petició ha estat exitosa
-    print("✅ Èxit!")
+    print("Exit!")
     # response.text conté el Body (cos de la resposta)
     print(response.text)
 else:
